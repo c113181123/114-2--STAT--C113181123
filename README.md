@@ -2,4 +2,4 @@
 #ID: C113181123
 ##NAME :吳旭崴
 ##LEADER NAME:郭柏辰
-##:PROJECT NAME:全球洋流溫度變化統計1
+##:PROJECT NAME:全球洋流溫度變化統計
